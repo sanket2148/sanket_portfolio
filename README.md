@@ -22,7 +22,7 @@ Welcome to the repository for my personal portfolio website. This website showca
 
 To get a local copy up and running follow these simple steps.
 
-1. Clone the repository: git clone https://github.com/SanketAvaralli/portfolio-website.git
+1. Clone the repository: git clone https://github.com/SanketAvaralli/sanket.git
 2. Navigate to the project directory: cd portfolio-website
 3. If the project requires any dependencies, install them. (This step may vary based on the project setup)
 4. Open the `index.html` file in your browser to view the website.
@@ -40,6 +40,6 @@ Feel free to fork the repository and submit pull requests to contribute to this 
 - Icons and graphics from FontAwesome and Flaticon.
 - Inspiration and code snippets from various web development resources online.
 
-Thank you for visiting my portfolio website repository. I hope it gives you a good insight into my capabilities and interests. For more details about my projects and work experience, please visit [my website](https://yourwebsiteurl.com).
+Thank you for visiting my portfolio website repository. I hope it gives you a good insight into my capabilities and interests. For more details about my projects and work experience, please visit [my website](https://sanketavaralli.com).
 
 Designed & Built by Sanket Avaralli
